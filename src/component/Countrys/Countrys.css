@@ -1,0 +1,8 @@
+.country_contain{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+.flag-size{
+    width: 130px;
+}
