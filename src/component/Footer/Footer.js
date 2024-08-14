@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         <div>
-            <p><small>Copyright Protected</small></p>
+            <p><small>Copyright Protected By Refat</small></p>
         </div>
     );
 };
